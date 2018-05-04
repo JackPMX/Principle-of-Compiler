@@ -1,0 +1,10 @@
+入口地址	变量名
+0			main
+1			argc
+2			argv
+3			i
+4			printf
+5			x
+6			z
+7			fafas
+8			ffff
